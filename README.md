@@ -1,6 +1,6 @@
 # Machine Learning Learning Progress
 
-**Started:** September 24, 2026 · **Current topic:** pandas basics and data cleaning · **Last updated:** September 25, 2026
+**Started:** September 24, 2026 · **Current topic:** NumPy broadcasting and matrix operations · **Last updated:** September 26, 2026
 
 ## Progress So Far
 
@@ -19,8 +19,20 @@
 - [x] Created pandas Series and DataFrames
 - [x] Loaded and inspected a CSV dataset
 - [x] Practiced handling missing values and duplicates
+- [x] Used broadcasting for array operations
+- [x] Practiced dot products and matrix multiplication
 
 ## Daily Progress
+
+### September 26, 2026
+
+- Learned NumPy broadcasting rules and applied broadcasting to data scaling, normalization, and centering
+- Practiced dot products and matrix multiplication with `numpy.dot()`
+
+**Notebooks:**
+
+- [NumPy broadcasting](1.numpy/5.numpy-broadcasting.ipynb)
+- [Dot products and matrix multiplication](1.numpy/6.numpy-dot-matrix.ipynb)
 
 ### September 25, 2026
 
