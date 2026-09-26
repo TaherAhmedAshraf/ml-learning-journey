@@ -1,8 +1,6 @@
 # Machine Learning Learning Progress
 
-**Started:** September 24, 2026  
-**Current topic:** NumPy fundamentals  
-**Last updated:** September 25, 2026
+**Started:** September 24, 2026 · **Current topic:** pandas basics and data cleaning · **Last updated:** September 25, 2026
 
 ## Progress So Far
 
@@ -18,6 +16,9 @@
 - [x] Generated pseudo-random numbers
 - [x] Sampled values using custom probabilities
 - [x] Shuffled arrays and generated permutations
+- [x] Created pandas Series and DataFrames
+- [x] Loaded and inspected a CSV dataset
+- [x] Practiced handling missing values and duplicates
 
 ## Daily Progress
 
@@ -32,6 +33,16 @@
 - Learned NumPy random-number generation
 - Practiced weighted random distributions
 - Practiced array shuffling and permutations
+- Learned pandas Series and DataFrames
+- Loaded and inspected the heart disease dataset
+- Practiced removing and filling missing values
+- Checked for and removed duplicate rows
+
+**Pandas notebooks and dataset:**
+
+- [Pandas basics](2.pandas/1.pandas-basics.ipynb)
+- [Pandas data cleaning](2.pandas/2.pandas-data-cleaning.ipynb)
+- [Heart disease dataset](datasets/heart_disease.csv)
 
 **Notebooks:**
 
